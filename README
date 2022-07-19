@@ -1,0 +1,5 @@
+/* README for inputstrings:
+*     intro to inputing strings using scanf("%s", s[]). I will also try using
+*  /t and /v to create an input, "page".
+*
+*/
