@@ -2,4 +2,6 @@
 *     intro to inputing strings using scanf("%s", s[]). I will also try using
 *  /t and /v to create an input, "page".
 *
+*  An example program from Kochan, Stephan G., "Programming in C 3rd ed.",
+*  Sams Publishing. p.207.
 */
